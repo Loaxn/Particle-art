@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "canvas-sketch": "^0.7.7",
+    "canvas-sketch-util": "^1.10.0",
+    "color-interpolate": "^1.0.5",
+    "colormap": "^2.3.2",
+    "ease": "^0.1.0",
+    "eases": "^1.0.8"
+  }
+}
